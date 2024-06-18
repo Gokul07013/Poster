@@ -7,7 +7,7 @@ function Nav(){
             <div id="header">
                 <nav>
                 <div>  
-                <img id="logo" src= "/public/logo.png"  alt="logo"></img>
+                <img id="logo" src= "./public/logo.png"  alt="logo"></img>
                 </div> 
                 <ul>
                 <li><a href="#">MENU</a></li>
