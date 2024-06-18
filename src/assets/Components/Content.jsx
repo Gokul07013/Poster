@@ -12,12 +12,12 @@ function Content(){
                         <button id="category">Category</button>
                         <div className="availablebox">
                             <p>Also available on</p>
-                            <a href="https://flipkart.com"><img src="/public/flipcart.png" alt="img" className="downimage"></img></a>
-                            <a href="https://amazon.com"><img src="/public/amazon.png" alt="img" className="downimage" id="amazon"></img></a>
+                            <a href="https://flipkart.com"><img src="./public/flipcart.png" alt="img" className="downimage"></img></a>
+                            <a href="https://amazon.com"><img src="./public/amazon.png" alt="img" className="downimage" id="amazon"></img></a>
                         </div>
                     </div>
                     <div id="rightdiv">
-                       <a href=""><img src="/public/shoe.png" alt="shoe" id="shoeimage"/></a>
+                       <a href=""><img src="./public/shoe.png" alt="shoe" id="shoeimage"/></a>
                     </div>
                 </main>
 
