@@ -1,3 +1,5 @@
+import logo from "/public/logo.png";
+
 
 function Nav(){
     document.title = "GK";
@@ -7,7 +9,7 @@ function Nav(){
             <div id="header">
                 <nav>
                 <div>  
-                <img id="logo" src= "logo.png"  alt="logo"></img>
+                <img id="logo" src= {logo}  alt="logo"></img>
                 </div> 
                 <ul>
                 <li><a href="#">MENU</a></li>
